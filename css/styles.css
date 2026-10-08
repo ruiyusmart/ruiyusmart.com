@@ -1,5 +1,5 @@
-/* ==========================================================================
-   Raywise Technologies — ruiyusmart.com
+﻿/* ==========================================================================
+   Raywise Technologies 鈥?ruiyusmart.com
    Single hand-authored stylesheet.
    Implements design tokens, component classes (BEM-ish), and motion keyframes.
    Honors prefers-reduced-motion. Mobile-first.
@@ -142,7 +142,7 @@ li { margin-bottom: var(--space-2); }
 
 ::selection { background: var(--color-gold); color: var(--color-ink); }
 
-/* Focus ring — WCAG 2.1 AA */
+/* Focus ring 鈥?WCAG 2.1 AA */
 :focus-visible {
   outline: none;
   box-shadow: var(--shadow-glow);
@@ -1038,6 +1038,14 @@ li { margin-bottom: var(--space-2); }
 }
 
 /* Reveal-on-scroll */
+
+/* --- Legal pages must always be visible regardless of rwt-reveal scroll trigger --- */
+.rwt-legal,
+.rwt-legal.rwt-reveal,
+.rwt-legal.rwt-reveal.is-in-view {
+  opacity: 1 !important;
+  transform: none !important;
+}
 .rwt-reveal {
   opacity: 0;
   transform: translate3d(0, 24px, 0);
@@ -1115,3 +1123,4 @@ li { margin-bottom: var(--space-2); }
   .rwt-header, .rwt-footer, .rwt-scroll-progress, .rwt-hero__mascot, .rwt-page-hero__mascot { display: none; }
   body { background: #fff; color: #000; }
 }
+
