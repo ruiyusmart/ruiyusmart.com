@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="root" viewBox="0 0 200 200" role="img" aria-label="Whale mascot">
+  <title>Whale mascot</title>
+  <g class="rwt-mascot">
+    <ellipse cx="100" cy="180" rx="70" ry="8" fill="#0E0F12" opacity="0.08"/>
+    <!-- water spout -->
+    <path d="M120 30 Q124 18 118 12 M120 30 Q128 22 132 12 M120 30 Q116 18 110 14" stroke="#1F6FEB" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+    <!-- body -->
+    <path d="M30 130 Q24 100 50 88 Q90 70 140 86 Q172 96 178 124 Q180 142 168 150 L42 150 Q30 146 30 130 Z" fill="#1F6FEB"/>
+    <!-- belly -->
+    <path d="M50 138 Q90 154 168 138 Q170 148 160 150 L50 150 Q44 148 50 138 Z" fill="#F5F4F0"/>
+    <!-- tail -->
+    <path d="M178 124 Q200 110 196 90 Q188 100 174 110 Z" fill="#1F6FEB"/>
+    <path d="M178 124 Q200 138 196 158 Q188 148 174 138 Z" fill="#1F6FEB"/>
+    <!-- fin -->
+    <path d="M90 144 Q80 162 96 162 L100 150 Z" fill="#1F6FEB"/>
+    <!-- eye -->
+    <circle cx="62" cy="112" r="5" fill="#FFFFFF"/>
+    <circle cx="62" cy="112" r="3" fill="#0E0F12"/>
+    <circle cx="63" cy="111" r="1" fill="#FFFFFF"/>
+    <!-- smile -->
+    <path d="M50 124 Q56 130 64 128" stroke="#0E0F12" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <!-- blowhole -->
+    <ellipse cx="120" cy="84" rx="6" ry="2" fill="#1655B8"/>
+    <!-- blush -->
+    <circle cx="50" cy="124" r="4" fill="#FF6F5B" opacity="0.5"/>
+    <!-- water drops -->
+    <circle cx="46" cy="172" r="2" fill="#1F6FEB" opacity="0.5"/>
+    <circle cx="58" cy="176" r="1.5" fill="#1F6FEB" opacity="0.4"/>
+    <circle cx="148" cy="172" r="2" fill="#1F6FEB" opacity="0.5"/>
+    <circle cx="160" cy="176" r="1.5" fill="#1F6FEB" opacity="0.4"/>
+  </g>
+</svg>

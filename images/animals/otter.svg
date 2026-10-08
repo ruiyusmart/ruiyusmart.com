@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="root" viewBox="0 0 200 200" role="img" aria-label="Otter mascot">
+  <title>Otter mascot</title>
+  <g class="rwt-mascot">
+    <ellipse cx="100" cy="182" rx="60" ry="10" fill="#0E0F12" opacity="0.08"/>
+    <!-- water -->
+    <path d="M0 180 Q40 170 80 180 T160 180 T240 180 L240 200 L0 200 Z" fill="#1F6FEB" opacity="0.2"/>
+    <!-- body -->
+    <ellipse cx="100" cy="140" rx="56" ry="40" fill="#8B5A3C"/>
+    <ellipse cx="100" cy="155" rx="40" ry="22" fill="#F5F4F0"/>
+    <!-- arms holding pebble -->
+    <ellipse cx="64" cy="156" rx="14" ry="18" fill="#8B5A3C" transform="rotate(-8 64 156)"/>
+    <ellipse cx="136" cy="156" rx="14" ry="18" fill="#8B5A3C" transform="rotate(8 136 156)"/>
+    <ellipse cx="100" cy="160" rx="14" ry="10" fill="#C9A14A"/>
+    <!-- head -->
+    <ellipse cx="100" cy="86" rx="48" ry="44" fill="#8B5A3C"/>
+    <!-- face white -->
+    <ellipse cx="100" cy="98" rx="32" ry="28" fill="#F5F4F0"/>
+    <!-- ears -->
+    <circle cx="60" cy="58" r="10" fill="#8B5A3C"/>
+    <circle cx="140" cy="58" r="10" fill="#8B5A3C"/>
+    <circle cx="60" cy="60" r="5" fill="#C9A14A"/>
+    <circle cx="140" cy="60" r="5" fill="#C9A14A"/>
+    <!-- eyes -->
+    <circle cx="82" cy="88" r="4" fill="#0E0F12"/>
+    <circle cx="118" cy="88" r="4" fill="#0E0F12"/>
+    <circle cx="83" cy="86" r="1.4" fill="#FFFFFF"/>
+    <circle cx="119" cy="86" r="1.4" fill="#FFFFFF"/>
+    <!-- nose -->
+    <ellipse cx="100" cy="100" rx="4" ry="3" fill="#0E0F12"/>
+    <!-- mouth -->
+    <path d="M100 104 L100 108 M100 108 Q92 114 88 108 M100 108 Q108 114 112 108" stroke="#0E0F12" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <!-- whiskers -->
+    <path d="M76 100 L60 96 M76 104 L60 106 M124 100 L140 96 M124 104 L140 106" stroke="#0E0F12" stroke-width="1" stroke-linecap="round"/>
+    <!-- blush -->
+    <circle cx="72" cy="102" r="3" fill="#FF6F5B" opacity="0.5"/>
+    <circle cx="128" cy="102" r="3" fill="#FF6F5B" opacity="0.5"/>
+  </g>
+</svg>

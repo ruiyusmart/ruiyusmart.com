@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" role="img" aria-label="Raywise Technologies">
+  <title>Raywise Technologies (monochrome)</title>
+  <g transform="translate(4,4)">
+    <circle cx="28" cy="28" r="26" fill="none" stroke="#F5F4F0" stroke-width="4"/>
+    <path d="M16 14 L28 14 Q40 14 40 24 Q40 32 32 34 L42 44 L34 44 L24 34 L24 44 L16 44 Z" fill="#F5F4F0"/>
+    <path d="M2 28 L54 28" stroke="#F5F4F0" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(72,0)" font-family="'Fraunces', 'Playfair Display', Georgia, serif" fill="#F5F4F0">
+    <text x="0" y="40" font-size="28" font-weight="600" letter-spacing="-0.5">Raywise</text>
+    <text x="118" y="40" font-size="28" font-weight="400" font-style="italic" fill="#F5F4F0" opacity="0.7">Technologies</text>
+  </g>
+</svg>

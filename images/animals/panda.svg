@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="root" viewBox="0 0 200 200" role="img" aria-label="Panda mascot">
+  <title>Panda mascot</title>
+  <g class="rwt-mascot">
+    <ellipse cx="100" cy="178" rx="56" ry="12" fill="#0E0F12" opacity="0.08"/>
+    <!-- ears -->
+    <circle cx="56" cy="56" r="20" fill="#0E0F12"/>
+    <circle cx="144" cy="56" r="20" fill="#0E0F12"/>
+    <circle cx="56" cy="58" r="10" fill="#C9A14A"/>
+    <circle cx="144" cy="58" r="10" fill="#C9A14A"/>
+    <!-- head -->
+    <ellipse cx="100" cy="100" rx="64" ry="58" fill="#F5F4F0"/>
+    <!-- body -->
+    <ellipse cx="100" cy="156" rx="46" ry="28" fill="#F5F4F0"/>
+    <!-- arms (black) -->
+    <ellipse cx="58" cy="146" rx="16" ry="22" fill="#0E0F12" transform="rotate(-12 58 146)"/>
+    <ellipse cx="142" cy="146" rx="16" ry="22" fill="#0E0F12" transform="rotate(12 142 146)"/>
+    <!-- legs -->
+    <ellipse cx="78" cy="178" rx="14" ry="10" fill="#0E0F12"/>
+    <ellipse cx="122" cy="178" rx="14" ry="10" fill="#0E0F12"/>
+    <!-- eye patches -->
+    <ellipse cx="78" cy="92" rx="14" ry="18" fill="#0E0F12" transform="rotate(-15 78 92)"/>
+    <ellipse cx="122" cy="92" rx="14" ry="18" fill="#0E0F12" transform="rotate(15 122 92)"/>
+    <!-- eyes -->
+    <circle cx="78" cy="96" r="3.5" fill="#FFFFFF"/>
+    <circle cx="122" cy="96" r="3.5" fill="#FFFFFF"/>
+    <circle cx="78" cy="96" r="2" fill="#0E0F12"/>
+    <circle cx="122" cy="96" r="2" fill="#0E0F12"/>
+    <!-- nose -->
+    <path d="M94 110 Q100 116 106 110 Q100 114 94 110 Z" fill="#0E0F12"/>
+    <!-- mouth -->
+    <path d="M100 116 L100 122 M100 122 Q94 128 90 124 M100 122 Q106 128 110 124" stroke="#0E0F12" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <!-- blush -->
+    <circle cx="68" cy="120" r="4" fill="#FF6F5B" opacity="0.45"/>
+    <circle cx="132" cy="120" r="4" fill="#FF6F5B" opacity="0.45"/>
+  </g>
+</svg>

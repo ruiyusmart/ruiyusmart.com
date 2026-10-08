@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="root" viewBox="0 0 200 200" role="img" aria-label="Penguin mascot">
+  <title>Penguin mascot</title>
+  <g class="rwt-mascot">
+    <ellipse cx="100" cy="184" rx="48" ry="8" fill="#0E0F12" opacity="0.1"/>
+    <!-- body -->
+    <path d="M60 60 Q60 30 100 30 Q140 30 140 60 L150 150 Q150 170 100 170 Q50 170 50 150 Z" fill="#0E0F12"/>
+    <!-- belly white -->
+    <ellipse cx="100" cy="118" rx="38" ry="46" fill="#F5F4F0"/>
+    <!-- flippers -->
+    <path d="M60 90 Q40 100 46 130 Q50 110 64 100 Z" fill="#0E0F12"/>
+    <path d="M140 90 Q160 100 154 130 Q150 110 136 100 Z" fill="#0E0F12"/>
+    <!-- feet -->
+    <ellipse cx="80" cy="172" rx="14" ry="6" fill="#C9A14A"/>
+    <ellipse cx="120" cy="172" rx="14" ry="6" fill="#C9A14A"/>
+    <!-- face -->
+    <ellipse cx="100" cy="78" rx="40" ry="36" fill="#0E0F12"/>
+    <ellipse cx="100" cy="84" rx="32" ry="28" fill="#F5F4F0"/>
+    <!-- eyes -->
+    <ellipse cx="86" cy="70" rx="6" ry="7" fill="#FFFFFF"/>
+    <ellipse cx="114" cy="70" rx="6" ry="7" fill="#FFFFFF"/>
+    <circle cx="86" cy="72" r="3" fill="#0E0F12"/>
+    <circle cx="114" cy="72" r="3" fill="#0E0F12"/>
+    <circle cx="87" cy="71" r="1" fill="#FFFFFF"/>
+    <circle cx="115" cy="71" r="1" fill="#FFFFFF"/>
+    <!-- beak -->
+    <path d="M92 84 L108 84 L100 96 Z" fill="#C9A14A"/>
+    <!-- blush -->
+    <circle cx="74" cy="88" r="4" fill="#FF6F5B" opacity="0.4"/>
+    <circle cx="126" cy="88" r="4" fill="#FF6F5B" opacity="0.4"/>
+  </g>
+</svg>

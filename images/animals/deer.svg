@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="root" viewBox="0 0 200 200" role="img" aria-label="Deer mascot">
+  <title>Deer mascot</title>
+  <g class="rwt-mascot">
+    <ellipse cx="100" cy="184" rx="52" ry="10" fill="#0E0F12" opacity="0.08"/>
+    <!-- antlers -->
+    <path d="M70 60 L62 30 L56 38 M70 60 L72 36 L80 42 M70 60 L80 50 L86 56" stroke="#8B5A3C" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M130 60 L138 30 L144 38 M130 60 L128 36 L120 42 M130 60 L120 50 L114 56" stroke="#8B5A3C" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- head -->
+    <ellipse cx="100" cy="100" rx="46" ry="52" fill="#C9A14A"/>
+    <ellipse cx="100" cy="118" rx="32" ry="30" fill="#F5E2C5"/>
+    <!-- ears -->
+    <ellipse cx="58" cy="76" rx="14" ry="10" fill="#C9A14A" transform="rotate(-25 58 76)"/>
+    <ellipse cx="142" cy="76" rx="14" ry="10" fill="#C9A14A" transform="rotate(25 142 76)"/>
+    <ellipse cx="60" cy="78" rx="8" ry="5" fill="#FF6F5B" opacity="0.6" transform="rotate(-25 60 78)"/>
+    <ellipse cx="140" cy="78" rx="8" ry="5" fill="#FF6F5B" opacity="0.6" transform="rotate(25 140 78)"/>
+    <!-- eyes -->
+    <ellipse cx="84" cy="100" rx="4" ry="6" fill="#0E0F12"/>
+    <ellipse cx="116" cy="100" rx="4" ry="6" fill="#0E0F12"/>
+    <circle cx="85" cy="98" r="1.5" fill="#FFFFFF"/>
+    <circle cx="117" cy="98" r="1.5" fill="#FFFFFF"/>
+    <!-- snout -->
+    <ellipse cx="100" cy="124" rx="14" ry="10" fill="#F5E2C5"/>
+    <ellipse cx="100" cy="118" rx="4" ry="3" fill="#0E0F12"/>
+    <!-- mouth -->
+    <path d="M100 122 L100 128 M100 128 Q94 132 90 128 M100 128 Q106 132 110 128" stroke="#0E0F12" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <!-- spots -->
+    <circle cx="74" cy="106" r="2" fill="#8B5A3C" opacity="0.5"/>
+    <circle cx="126" cy="106" r="2" fill="#8B5A3C" opacity="0.5"/>
+    <circle cx="82" cy="120" r="1.5" fill="#8B5A3C" opacity="0.5"/>
+    <circle cx="118" cy="120" r="1.5" fill="#8B5A3C" opacity="0.5"/>
+    <!-- blush -->
+    <circle cx="72" cy="116" r="3" fill="#FF6F5B" opacity="0.5"/>
+    <circle cx="128" cy="116" r="3" fill="#FF6F5B" opacity="0.5"/>
+  </g>
+</svg>
